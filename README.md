@@ -1,2 +1,3 @@
 # hello-world
 just starting...
+here are some basic information how to not lear github quikly
